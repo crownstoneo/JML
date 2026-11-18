@@ -36,7 +36,8 @@ Automate employee onboarding, department transfers, security group RBAC, and imm
 <b>Joiner Provisioning & Group Assignment:</b> 
 <br />
 
-<img alt="Joiner Provisioning Terminal Output" src="https://github.com/user-attachments/assets/fae4a9f8-42b7-4906-8e2b-1e550ccbca0f" />
+<img alt="Joiner Provisioning Terminal Output" src="https://github.com/user-attachments/assets/86dc2f67-70f3-4d0b-b1ac-2b0035fc802e" />
+" />
 <br />
 <br />
 <b>Mover Department & RBAC Transition:</b> 
