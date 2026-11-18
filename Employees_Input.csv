@@ -1,0 +1,4 @@
+FirstName,LastName,Department,JobTitle,StartDate,ManagerEmail,PersonalEmail
+Emma,VanDijk,Engineering,Cloud Engineer,2026-06-01,admin@yourtenant.onmicrosoft.com,emma.test@gmail.com
+Lars,DeJong,Security,SecOps Analyst,2026-06-01,admin@yourtenant.onmicrosoft.com,lars.test@gmail.com
+Sanne,Bakker,Finance,Financial Analyst,2026-06-01,admin@yourtenant.onmicrosoft.com,sanne.test@gmail.com
